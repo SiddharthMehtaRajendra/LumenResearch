@@ -1,2 +1,2 @@
 # LumenResearch
-Trying out Lumen
+Trying out Lumen for PHP
